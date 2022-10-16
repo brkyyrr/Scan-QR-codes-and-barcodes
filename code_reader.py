@@ -25,3 +25,4 @@ while camera == True:
     
     cv2.imshow("Barkod Okuyucu", frame)
     cv2.waitKey(1)
+    
